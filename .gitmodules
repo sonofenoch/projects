@@ -1,3 +1,5 @@
+
 [submodule "c-http-server"]
 	path = c-http-server
 	url = https://github.com/sonofenoch/c-http-server
+	branch = master
